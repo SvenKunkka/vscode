@@ -1,3 +1,7 @@
+<!-- SVENKUNKKA-README-NAV:BEGIN -->
+[中文项目说明](#project-overview-zh) · [English overview](#project-overview-en) · [维护者 X / Maintainer on X](https://x.com/Svenu1s5)
+<!-- SVENKUNKKA-README-NAV:END -->
+
 # Visual Studio Code - Open Source
 
 [![Build Status](https://travis-ci.org/Microsoft/vscode.svg?branch=master)](https://travis-ci.org/Microsoft/vscode)
@@ -51,3 +55,32 @@ For a complete list, please see the [Related Projects](https://github.com/Micros
 Copyright (c) Microsoft Corporation. All rights reserved.
 
 Licensed under the [MIT](LICENSE.txt) License.
+
+
+---
+
+<!-- SVENKUNKKA-PROJECT-INFO:BEGIN -->
+
+<a id="project-overview-zh"></a>
+## 中文项目说明
+
+来自 microsoft/vscode 的个人 Fork，保留 Visual Studio Code 开源代码。项目围绕代码编辑、构建调试、扩展机制和工具集成展开，供查阅源码及参考上游开发流程。
+
+**使用入口：** 普通使用可从原 README 链接的 VS Code 官网下载；源码构建与贡献入口是上游 [How to Contribute](https://github.com/Microsoft/vscode/wiki/How-to-Contribute)。
+
+**范围说明：** 此 Fork 是独立源码快照，不保证与当前官方版本一致；Microsoft 及上游贡献者归属和 MIT 许可保持不变。
+
+<a id="project-overview-en"></a>
+## English project overview
+
+A personal fork of microsoft/vscode containing the open-source Visual Studio Code codebase for editing, build/debug workflows, extensibility and tool integration, with upstream development references.
+
+**Getting started:** For normal use, download VS Code from the official website linked in the original README. For source builds and contributions, see upstream [How to Contribute](https://github.com/Microsoft/vscode/wiki/How-to-Contribute).
+
+**Scope:** This fork is an independent source snapshot and may differ from the current official release. Microsoft and upstream contributor attribution and the MIT license remain intact.
+
+**本 Fork 的维护者 / Maintainer of this fork:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+**上游项目 / Upstream:** [microsoft/vscode](https://github.com/microsoft/vscode)。保留原作者署名与原许可证 / Original authorship and license notices are retained.
+
+<!-- SVENKUNKKA-PROJECT-INFO:END -->
